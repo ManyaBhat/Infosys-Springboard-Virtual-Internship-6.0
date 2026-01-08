@@ -1,10 +1,11 @@
 # Infosys-Springboard-Virtual-Internship-6.0
 My progress documentation for Infosys Springboard Virtual Internship 6.0, including learning outcomes and the Crypto Volatility and Risk Analyzer project.
 
-## Internship Progress Report
+## Internship Progress Report  
+**Duration:** 29 December 2025 – 09 January 2025  
 
-**Internship Program:** Infosys Springboard  
-**Project Title:** Crypto Volatility and Risk Analyzer  
+**Internship Program:** Infosys Springboard Virtual Internship 6.0  
+**Project Title:** Crypto Volatility and Risk Analyzer   
 **Mentor:** Ms. Sangeetha  
 
 ---
@@ -84,11 +85,53 @@ The **Crypto Volatility and Risk Analyzer** project aims to analyze historical c
 
 ---
 
-## 10. Python Learning and Practice
+## **10. Python Learning and Practice**
 
-Python programming was introduced with a focus on its applications in data analytics. Hands-on practice was conducted using Python IDEs and Google Colab. Basic concepts such as variables, data types, arithmetic operations, input/output, and string manipulation were practiced.
+As part of the internship, we were introduced to the **Python programming language**, which is widely used in data analytics, machine learning, web development, and automation. Python was chosen for this project due to its simplicity, readability, and strong support for data analysis and visualization.
 
-### Sample Code Practiced
+### **Introduction to Python**
+
+Python is a **high-level, interpreted, and general-purpose programming language**. It was created by **Guido van Rossum** and first released in **1991**. Python emphasizes code readability and uses simple English-like syntax, making it easy to learn and use, especially for beginners.
+
+### **Features of Python**
+
+Some key features of Python discussed during the internship include:
+
+* Simple and easy-to-learn syntax
+* Interpreted language (no compilation required)
+* Platform independent
+* Large standard library
+* Support for multiple programming paradigms (procedural, object-oriented, and functional)
+* Strong community support
+* Extensive libraries for data analysis and visualization
+
+### **Applications of Python**
+
+Python is widely used in various domains, such as:
+
+* Data analysis and data science
+* Machine learning and artificial intelligence
+* Web development
+* Automation and scripting
+* Scientific and numerical computing
+* Financial analysis and cryptocurrency analytics
+
+### **Hands-on Practice**
+
+Hands-on practice sessions were conducted using Python IDEs and **Google Colab / Jupyter Notebook**. The following basic concepts were practiced:
+
+* Variables and data types (`int`, `float`, `string`)
+* Arithmetic operations
+* Input and output operations
+* String manipulation
+* Basic expressions and calculations
+
+### **Sample Code Practiced**
+
 ```python
 a = int(input("Enter a number: "))
 print(a ** 0.5)
+```
+
+All the Python practice codes performed during the internship have been documented and uploaded in the **Python-Practice** folder of this repository in the form of a **Jupyter Notebook**.
+
