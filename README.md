@@ -1,7 +1,7 @@
 # Infosys-Springboard-Virtual-Internship-6.0
 
 📄 **Internship Progress Report (Milestone 1 – PDF)**  
-🔗 (https://drive.google.com/file/d/15G9ZL04Za1t-ZXNWhzyfsFtEqELsSvOw/view?usp=sharing)
+🔗 (https://drive.google.com/file/d/14M33LMZmTlVQAqGUG_cndn2QARoLkN-S/view?usp=sharing)
 
 My progress documentation for Infosys Springboard Virtual Internship 6.0, including learning outcomes and the Crypto Volatility and Risk Analyzer project.
 
