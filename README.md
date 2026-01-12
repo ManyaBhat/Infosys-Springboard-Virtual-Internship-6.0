@@ -1,5 +1,10 @@
 # Infosys-Springboard-Virtual-Internship-6.0
+
+📄 **Internship Progress Report (Milestone 1 – PDF)**  
+🔗 (https://drive.google.com/file/d/15G9ZL04Za1t-ZXNWhzyfsFtEqELsSvOw/view?usp=sharing)
+
 My progress documentation for Infosys Springboard Virtual Internship 6.0, including learning outcomes and the Crypto Volatility and Risk Analyzer project.
+
 
 ## Internship Progress Report  
 **Duration:** 29 December 2025 – 09 January 2026  
